@@ -23,7 +23,7 @@ HMM-based ASR:
 Same as 2,3,4 in Single-Gaussian-based ASR.  
 
 Command:  
-python submission.py --mode mode train_1digit.feat test_1digit.feat
-mode can be sg, gmm and hmm
---debug can be used before --mode if needed.
+python submission.py --mode mode train_1digit.feat test_1digit.feat  
+mode can be sg, gmm and hmm  
+--debug can be used before --mode if needed.  
 
